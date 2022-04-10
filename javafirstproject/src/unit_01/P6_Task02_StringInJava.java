@@ -25,8 +25,8 @@ class StringInJava {
         	System.out.println(s.charAt(i));
         } 
         
-        String first = "Anwesha";
-        String second = "Lobiyal";
+        String first = "Anusha";
+        String second = "Rawat";
         
         String third = first + second;
         System.out.println(third);
@@ -34,8 +34,8 @@ class StringInJava {
         boolean result1 = first.equals(second);
         System.out.println(result1);
         
-        String fourth = "Anwesha";
-        String fifth = new String("Lobiyal");
+        String fourth = "Anusha";
+        String fifth = new String("Rawat");
 		
 	}
 	void charAndString() {
